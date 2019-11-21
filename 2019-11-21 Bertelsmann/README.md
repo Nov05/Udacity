@@ -16,6 +16,9 @@ https://www.udacity.com/bertelsmann-tech-scholarships
 Introduction to Deep Learning with PyTorch   
 Estimated time: 25 hours 37 minutes    
 
+All the videos are the same with this challenge.    
+https://github.com/Nov05/Udacity-PyTorch_Challenge   
+
 10.1 [Welcome!](https://github.com/Nov05/Udacity/blob/master/2019-11-21%20Bertelsmann/course/Lesson%2010.01.md)    
 10.2 Installing PyTorch 1.0   
 https://youtu.be/kIwKPxgReFY  
