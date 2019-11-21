@@ -1,9 +1,9 @@
 ﻿
 # Bertelsmann Tech Scholarship Challenge 
 
-## :point_right: AI Track - Udacity  
-
 https://www.udacity.com/bertelsmann-tech-scholarships
+
+## :point_right: AI Track - Udacity  
 
 <img src="https://github.com/Nov05/pictures/blob/master/Udacity/2019-11-21%20Bertelsmann/2019-11-21%2008_59_34-Bertelsmann%20Technology%20Scholarships%20-%20Udacity.png?raw=true" width=700>
 
@@ -13,7 +13,10 @@ https://www.udacity.com/bertelsmann-tech-scholarships
 
 ## :point_right: Course Videos
 
-10.1 [Welcome!](https://github.com/Nov05/Udacity/blob/master/2019-11-21%20Bertelsmann/course/Lesson%2010.01.md)  
+Introduction to Deep Learning with PyTorch   
+Estimated time: 25 hours 37 minutes    
+
+10.1 [Welcome!](https://github.com/Nov05/Udacity/blob/master/2019-11-21%20Bertelsmann/course/Lesson%2010.01.md)    
 10.2 Installing PyTorch 1.0   
 https://youtu.be/kIwKPxgReFY  
 (Note: Please use the latest version of PyTorch.)   
@@ -25,6 +28,10 @@ https://youtu.be/lYmQDUprQa0
 https://youtu.be/pO1RM7mKaFg   
 10.6 PyTorch C++ API  
 https://youtu.be/P1S1dN1gHmw   
+10.7 [Want to learn more?](https://github.com/Nov05/Udacity/blob/master/2019-11-21%20Bertelsmann/course/Lesson%2010.01.md)   
+
+
+
 
 
    
