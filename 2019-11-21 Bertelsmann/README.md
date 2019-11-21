@@ -1,6 +1,6 @@
 ﻿
-# Bertelsmann Tech Scholarship Challenge Course
-AI Track - Udacity  
+# Bertelsmann Tech Scholarship Challenge 
+## AI Track - Udacity  
 
 https://www.udacity.com/bertelsmann-tech-scholarships
 
